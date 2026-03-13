@@ -6,7 +6,7 @@ This repository provides a searchable reference for researchers working on AI/de
 
 > **Cite this catalog:**  
 > DOI: `[to fill when the paper is published]`  
-> Zenodo snapshot: `[DOI to fill after deposit]`
+> Zenodo snapshot: `doi.org/10.5281/zenodo.18996675`
 
 ---
 
@@ -126,7 +126,7 @@ If you use this catalog, please cite both the article and the Zenodo snapshot:
 ```
 [DOI: `[to fill when the paper is published]
 
-[Zenodo catalog snapshot. DOI: to fill]
+[Zenodo catalog snapshot. doi.org/10.5281/zenodo.18996675]
 ```
 
 ---
