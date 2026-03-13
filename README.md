@@ -1,11 +1,11 @@
 # Open Cardiovascular Imaging Datasets — Catalog
 
-A curated catalog of publicly available datasets for cardiovascular imaging, compiled as part of a scoping review published in *European Radiology — Cardiovascular and Thoracic* (2026).
+A curated catalog of publicly available datasets for cardiovascular imaging, compiled as part of a scoping review (2026).
 
-This repository provides a living, searchable reference for researchers working on AI/deep learning in cardiovascular imaging. The full metadata (all fields, acquisition parameters, features) is available in [`catalog.csv`](./data/catalog.csv).
+This repository provides a searchable reference for researchers working on AI/deep learning in cardiovascular imaging. The full metadata (all fields, acquisition parameters, features) is available in [`catalog.csv`](./data/catalog.csv).
 
 > **Cite this catalog:**  
-> [Author et al. (2026). *Open-Access Datasets for Cardiovascular Imaging: A Scoping Review.* European Radiology — Cardiovascular and Thoracic.] — DOI: `[to fill]`  
+> DOI: `[to fill when the paper is published]`  
 > Zenodo snapshot: `[DOI to fill after deposit]`
 
 ---
@@ -124,8 +124,7 @@ This repository provides a living, searchable reference for researchers working 
 If you use this catalog, please cite both the article and the Zenodo snapshot:
 
 ```
-[Author et al. (2026). Open-Access Datasets for Cardiovascular Imaging: A Scoping Review.
-European Radiology — Cardiovascular and Thoracic. DOI: to fill]
+[DOI: `[to fill when the paper is published]
 
 [Zenodo catalog snapshot. DOI: to fill]
 ```
@@ -137,6 +136,3 @@ European Radiology — Cardiovascular and Thoracic. DOI: to fill]
 Found a missing dataset? Open an issue or submit a pull request.  
 Please include: Name, Task, Modality, n, Date, Size, License, Platform, URL.
 
----
-
-*Last updated: March 2026*
